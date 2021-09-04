@@ -1,5 +1,5 @@
-# Attendance_System_Using_Face_Recognation_2
-Attendance System Using Face_recognation,OpenCv,Cmaker,dlib,numpy and other python inbuilt library such as os and datetime.
+# Attendance_System_Using_Face_Recognition_2
+Attendance System Using Face_recognition,OpenCv,Cmaker,dlib,numpy and other python inbuilt library such as os and datetime.
 
 
 Step1::Download Microsoft Visual studio 2019 and install C++ related library to support dlib toolkit.(If you have already installed Vs-Code then install C++ related library from vsCode)
