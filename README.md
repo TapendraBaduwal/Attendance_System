@@ -1,4 +1,4 @@
-# Attendance_System_Using_Face_Recognatio_2
+# Attendance_System_Using_Face_Recognation_2
 Attendance System Using Face_recognation,OpenCv,Cmaker,dlib,numpy and other python inbuilt library such as os and datetime.
 
 
